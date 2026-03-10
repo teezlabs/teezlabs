@@ -9,10 +9,10 @@
 
 ---
 
-- 👋 Hi, I’m @xSghetti
-- 👀 I’m currently learning Web Development
-- 🌱 Aesthetic Junkie
-- 🍚 Got Rice?
+- 👋 Hi, I’m @Teez
+- ![arch](https://raw.githubusercontent.com/unixporn/distro-icons/71c205b588a9ea021705867ebfccbd859a196192/SVG/arch.svg) I’m an Arch Linux Hobbiest and Enthusiast.
+- 🌱Aesthetic Junkie
+- 🛠️Constantly Tinkering
 
 ---
 
