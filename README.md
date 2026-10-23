@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=32&pause=1200&color=F78FB3&center=true&vCenter=true&width=700&height=60&lines=Greetings%2C+Traveler!;I'm+Teez.;Arch+%2B+Hyprland+tinkerer.;Every+corner+gets+chamfered." alt="Greetings, Traveler!" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=32&pause=1200&color=F78FB3&center=true&vCenter=true&width=700&height=60&lines=Greetings+Traveler%2C+I'm+Teez" alt="Greetings Traveler, I'm Teez" />
 
 [![Website](https://img.shields.io/badge/teezlabs.pink-F78FB3?style=for-the-badge&logo=cloudflare&logoColor=white)](https://teezlabs.pink)
 ![Discord](https://dcbadge.limes.pink/api/shield/146459065432801280?theme=clean)
