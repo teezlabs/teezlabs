@@ -13,11 +13,10 @@
 
 ### `$ whoami`
 
-- 🐧 Arch Linux hobbyist. I use Arch, btw, and I mean it
-- 🪟 Hyprland ricer: Lua config, matugen theming, Departure Mono everywhere
-- 🎨 Aesthetic junkie who keeps tinkering long after things already work
-- 🏠 Runs a home lab: Proxmox LXCs, Caddy, Forgejo, Tailscale, a Pi 5 TV kiosk
-- ⛏️ Modded Minecraft enjoyer (ATM9, ATM10 To the Sky, GregTech). I host the servers too
+- 👋 Hi, I’m @Teez
+- ![arch](https://raw.githubusercontent.com/unixporn/distro-icons/71c205b588a9ea021705867ebfccbd859a196192/SVG/arch.svg) I’m an Arch Linux Hobbiest and Enthusiast.
+- 🌱Aesthetic Junkie
+- 🛠️Constantly Tinkering
 
 <br clear="right" />
 
