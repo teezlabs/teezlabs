@@ -21,7 +21,7 @@
 
 <div align="center">
 
- ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=teezlabs&theme=tokyonight)  
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=teezlabs&rank_icon=github&show_icons=true&include_all_commits=true&theme=omni)](https://github-stats-extended.vercel.app/api?username=teezlabs&rank_icon=github&show_icons=true&include_all_commits=true&theme=omni) 
  
  
  ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) <br>
