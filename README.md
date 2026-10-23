@@ -35,6 +35,25 @@
 
 ---
 
+### 📊 Stats
+
+<div align="center">
+
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=teezlabs&rank_icon=github&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="GitHub stats" />
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs?username=teezlabs&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top languages" />
+
+<br /><br />
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/teezlabs/teezlabs/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/teezlabs/teezlabs/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/teezlabs/teezlabs/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
 ### 🧰 Stack
 
 <div align="center">
@@ -64,24 +83,5 @@
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Forgejo](https://img.shields.io/badge/Forgejo-FB923C?style=for-the-badge&logo=forgejo&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-
-</div>
-
----
-
-### 📊 Stats
-
-<div align="center">
-
-<img height="170" src="https://github-stats-extended.vercel.app/api?username=teezlabs&rank_icon=github&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="GitHub stats" />
-<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs?username=teezlabs&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top languages" />
-
-<br /><br />
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/teezlabs/teezlabs/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/teezlabs/teezlabs/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/teezlabs/teezlabs/output/github-contribution-grid-snake.svg" />
-</picture>
 
 </div>
