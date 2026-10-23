@@ -2,14 +2,6 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=32&pause=1200&color=F78FB3&center=true&vCenter=true&width=700&height=60&lines=Greetings%2C+Traveler!;I'm+Teez.;Arch+%2B+Hyprland+tinkerer.;Every+corner+gets+chamfered." alt="Greetings, Traveler!" />
 
-<a href="https://github.com/teezlabs/crux-shell">
-    <img src="https://raw.githubusercontent.com/teezlabs/crux-shell/main/.github/screenshot.png" alt="crux shell running on Hyprland" width="820" />
-</a>
-
-<sub><i>crux shell: my from-scratch QuickShell desktop, the thing I stare at all day</i></sub>
-
-<br /><br />
-
 [![Website](https://img.shields.io/badge/teezlabs.pink-F78FB3?style=for-the-badge&logo=cloudflare&logoColor=white)](https://teezlabs.pink)
 ![Discord](https://dcbadge.limes.pink/api/shield/146459065432801280?theme=clean)
 
